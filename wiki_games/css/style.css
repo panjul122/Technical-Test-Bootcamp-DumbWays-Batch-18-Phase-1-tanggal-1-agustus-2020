@@ -1,0 +1,8 @@
+.heroes-img{
+	opacity: 80%;
+	margin: auto;
+}
+
+.heroes-img img{
+	width: 200px;
+}
